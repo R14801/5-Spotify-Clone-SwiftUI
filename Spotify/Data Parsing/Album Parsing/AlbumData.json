@@ -1,0 +1,98 @@
+[
+    {
+        "img": "isles",
+        "album": "Isles",
+        "artistimg": "bicep",
+        "artist": "Bicep",
+        "badge": true,
+        "year": "2021",
+        "date": "January 22",
+        "songs": 10,
+        "time": "49 min 26 sec",
+        "cright": "© ℗ 2021 Ninja Tune"
+    },
+    {
+        "img": "tellme",
+        "album": "Tell Me",
+        "artistimg": "tinlicker",
+        "artist": "Tinlicker • Helsloot",
+        "badge": true,
+        "year": "2020",
+        "date": "November 12",
+        "songs": 2,
+        "time": "9 min 51 sec",
+        "cright": "© ℗ Be Yourself Catalogue B.V."
+    },
+    {
+        "img": "together",
+        "album": "Together",
+        "artistimg": "jongurd",
+        "artist": "Jon Gurd",
+        "badge": true,
+        "year": "2020",
+        "date": "June 3",
+        "songs": 2,
+        "time": "10 min 32 sec",
+        "cright": "© ℗ Anjunadeep"
+    },
+    {
+        "img": "enough",
+        "album": "Enough To Believe (Remixes)",
+        "artistimg": "bobm",
+        "artist": "EP by Bob Moses",
+        "badge": false,
+        "year": "2019",
+        "date": "January 31",
+        "songs": 4,
+        "time": "26 min 41 sec",
+        "cright": "© ℗ 2019 Domino Recording Co Ltd"
+    },
+    {
+        "img": "blackp",
+        "album": "Black Panther",
+        "artistimg": "kendrick",
+        "artist": "Kendrick Lamar",
+        "badge": false,
+        "year": "2018",
+        "date": "February 9",
+        "songs": 14,
+        "time": "49 min 18 sec",
+        "cright": "© ℗ Aftermath Records"
+    },
+    {
+        "img": "nopressure",
+        "album": "No Pressure",
+        "artistimg": "logic",
+        "artist": "Logic",
+        "badge": false,
+        "year": "2020",
+        "date": "July 24",
+        "songs": 14,
+        "time": "59 min 55 sec",
+        "cright": "© ℗ Def Jam Recordings"
+    },
+    {
+        "img": "afterh",
+        "album": "After Hours",
+        "artistimg": "weeknd",
+        "artist": "The Weeknd",
+        "badge": false,
+        "year": "2020",
+        "date": "March 20",
+        "songs": 14,
+        "time": "56 min 17 sec",
+        "cright": "© ℗ The Weeknd XO Inc,"
+    },
+    {
+        "img": "gooddays",
+        "album": "Good Days",
+        "artistimg": "sza",
+        "artist": "SZA",
+        "badge": true,
+        "year": "2020",
+        "date": "December 25",
+        "songs": 1,
+        "time": "4 min 39 sec",
+        "cright": "© ℗ Top Dawg Entertainment"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "img": "morbid",
+        "podcast": "Morbid: A True Crime Podcast",
+        "episode": "Episode 224: The Mysterious Murder of Julia Wallace Part 1",
+        "network": "Morbid: A True Crime Podcast",
+        "time": "Today",
+        "timeleft": 103 ,
+        "duration": 103 ,
+        "desc": "It’s Alaina-centric and it’s old timey!! We’re heading back to England in the 1930’s. William Herbert Wallace is quite a character, and to be honest so is his wife Julia."
+    },
+    {
+        "img": "supernatural",
+        "podcast": "Supernatural with Ashley Flowers",
+        "episode": "CONSPIRACY: The Illuminati",
+        "network": "Parcast Network",
+        "time": "Yesterday",
+        "timeleft": 9,
+        "duration": 49,
+        "desc": "The Illuminati was an 18th-century secret society that supposedly ended just a decade after it began. But conspiracy theorists argue that it never really went away — it just went deeper underground, where it could slowly achieve world domination with no one the wiser."
+    },
+    {
+        "img": "serialk",
+        "podcast": "Serial Killers",
+        "episode": "'The Watcher House' from Urban Legends",
+        "network": "Parcast Network",
+        "time": "Wed",
+        "timeleft": 27,
+        "duration": 37,
+        "desc": "Creepypastas, frightful TikToks, online horror stories… Loey Lane and Eleanor Barnes are taking you into the spookiest corners of the web in their new Spotify Original from Parcast, Internet Urban Legends. Meet the hosts and hear their debut episode on the Watcher House"
+    },
+    {
+        "img": "casefile",
+        "podcast": "Casefile True Crime",
+        "episode": "Case 171: The Gladbeck Hostage Crisis",
+        "network": "Casefile Presents",
+        "time": "Tue",
+        "timeleft": 127,
+        "duration": 127,
+        "desc": "On August 19 1988, two armed offenders entered a branch of the Deutsche Bank in Gladbeck, West Germany with the intention of holding it up..."
+    },
+    {
+        "img": "hauntedp",
+        "podcast": "Haunted Places",
+        "episode": "Hotel Galvez",
+        "network": "Parcast Network",
+        "time": "Mon",
+        "timeleft": 40,
+        "duration": 47,
+        "desc": "In 1900, a category 4 hurricane reached the shores of Galveston, Texas and swept through the city, killing thousands. A decade later, Hotel Galvez opened its doors, offering a grand seaside stay to vacationing visitors"
+    }
+]
+

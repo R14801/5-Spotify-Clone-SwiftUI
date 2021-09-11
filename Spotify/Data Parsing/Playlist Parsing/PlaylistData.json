@@ -1,0 +1,26 @@
+[
+    {
+        "img": "tth",
+        "name": "Today's Top Hits",
+        "genre": "Pop",
+        "creator": "Spotify"
+    },
+    {
+        "img": "rap",
+        "name": "Rap Caviar",
+        "genre": "Hip Hop",
+        "creator": "Spotify"
+    },
+    {
+        "img": "dance",
+        "name": "Mint",
+        "genre": "Dance/ Electronic",
+        "creator": "Spotify"
+    },
+    {
+        "img": "indie",
+        "name": "Indie Hits",
+        "genre": "Indie",
+        "creator": "Spotify"
+    }
+]

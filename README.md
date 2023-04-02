@@ -1,4 +1,4 @@
-# 5-Spotify-Clone-SwiftUI
+# 5. Spotify Clone (SwiftUI)
 A Spotify Clone created using SwiftUI
 
 Notable Skills: Layout, Nested Views, Reusable Views
